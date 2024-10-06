@@ -13,14 +13,3 @@
  </a>
 </div>
 </br>
-
----
-
-<p align="center">
- <a href="https://github.com/YasmineZaatour">
-  <img src="https://komarev.com/ghpvc/?username=YasmineZaatour&label=Profile%20views&color=0e75b6&style=flat" alt="YasmineZaatour" />
- </a>
- <a href="https://github.com/YasmineZaatour">
-  <img src="https://img.shields.io/github/followers/YasmineZaatour?label=Followers" alt="YasmineZaatour" />
- </a>
-</p>
