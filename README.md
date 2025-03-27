@@ -5,6 +5,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YasmineZaatour&theme=dark&hide_border=true&background=000000&stroke=130F40&ring=7A7ADB&fire=2234AE&currStreakLabel=7A7ADB&sideNums=D3D3D3&currStreakNum=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" />
 
 </p>
+-----
 
 <div align="center">
 
